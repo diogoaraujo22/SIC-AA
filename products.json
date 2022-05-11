@@ -1,0 +1,19 @@
+[
+  {
+    "id": 1,
+    "name": "Arroz",
+    "category": "Alimentar"
+  },{
+    "id": 2,
+    "name": "Bicicleta",
+    "category": "Desporto"
+  },{
+    "id": 3,
+    "name": "Bola de futebol",
+    "category": "Desporto"
+  },{
+    "id": 4,
+    "name": "iPhone",
+    "category": "Telemoveis"
+  }
+]
