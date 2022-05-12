@@ -2,50 +2,62 @@
   {
     "id": 1,
     "name": "Arroz",
-    "category": "Alimentar"
+    "category": "Alimentar",
+    "url_image": ""
   },{
     "id": 2,
     "name": "Bicicleta",
-    "category": "Desporto"
+    "category": "Desporto",
+    "url_image": ""
   },{
     "id": 3,
     "name": "Bola de futebol",
-    "category": "Desporto"
+    "category": "Desporto",
+    "url_image": ""
   },{
     "id": 4,
     "name": "iPhone",
-    "category": "Telemoveis"
+    "category": "Telemoveis",
+    "url_image": ""
   },{
     "id": 5,
     "name": "Carregador iPhone",
-    "category": "Telemoveis"
+    "category": "Telemoveis",
+    "url_image": ""
   },{
     "id": 6,
     "name": "Santal",
-    "category": "Alimentar"
+    "category": "Alimentar",
+    "url_image": ""
   },{
     "id": 7,
     "name": "Talheres",
-    "category": "Cozinha"
+    "category": "Cozinha",
+    "url_image": ""
   },{
     "id": 8,
     "name": "Fotografia",
-    "category": "Fotografia"
+    "category": "Fotografia",
+    "url_image": ""
   },{
     "id": 9,
     "name": "Caneca",
-    "category": "Roupa"
+    "category": "Roupa",
+    "url_image": ""
   },{
     "id": 10,
     "name": "Cachecol SLB",
-    "category": "Desporto"
+    "category": "Desporto",
+    "url_image": ""
   },{
     "id": 11,
     "name": "Pulseira",
-    "category": "Acessórios"
+    "category": "Acessórios",
+    "url_image": ""
   },{
     "id": 12,
     "name": "Estojo",
-    "category": "Escolar"
+    "category": "Escolar",
+    "url_image": ""
   }
 ]
