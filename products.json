@@ -15,5 +15,37 @@
     "id": 4,
     "name": "iPhone",
     "category": "Telemoveis"
+  },{
+    "id": 5,
+    "name": "Carregador iPhone",
+    "category": "Telemoveis"
+  },{
+    "id": 6,
+    "name": "Santal",
+    "category": "Alimentar"
+  },{
+    "id": 7,
+    "name": "Talheres",
+    "category": "Cozinha"
+  },{
+    "id": 8,
+    "name": "Fotografia",
+    "category": "Fotografia"
+  },{
+    "id": 9,
+    "name": "Caneca",
+    "category": "Roupa"
+  },{
+    "id": 10,
+    "name": "Cachecol SLB",
+    "category": "Desporto"
+  },{
+    "id": 11,
+    "name": "Pulseira",
+    "category": "Acessórios"
+  },{
+    "id": 12,
+    "name": "Estojo",
+    "category": "Escolar"
   }
 ]
