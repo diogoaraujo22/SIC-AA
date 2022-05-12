@@ -3,61 +3,61 @@
     "id": 1,
     "name": "Arroz",
     "category": "Alimentar",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.receitasnestle.com.br%2Freceitas%2Farroz-basico&psig=AOvVaw3geDyKWtK6lOvyuuEBfvOb&ust=1652461632531000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJjfxba52vcCFQAAAAAdAAAAABAD"
   },{
     "id": 2,
     "name": "Bicicleta",
     "category": "Desporto",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Febroh.es%2Fpt-pt%2Fproduto%2Fe-bikes-pt-pt%2Fmtb-pt-pt%2Fbicicleta-electrica-mtb-m-200%2F&psig=AOvVaw1Nkc20hHSl7Aw1Pet-2FGn&ust=1652461832558000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOiB8JW62vcCFQAAAAAdAAAAABAe"
   },{
     "id": 3,
     "name": "Bola de futebol",
     "category": "Desporto",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.giftcampaign.pt%2Fdesporto%2Fbolas-personalizadas%2Fmini-bola-futebol-logotipo.html&psig=AOvVaw2HPOo-Wn4DJR6iPtrC2MWx&ust=1652461869046000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOCa-6a62vcCFQAAAAAdAAAAABAI"
   },{
     "id": 4,
     "name": "iPhone",
     "category": "Telemoveis",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.apple.com%2Fpt%2Fshop%2Fbuy-iphone%2Fiphone-13-pro%2Fecr%25C3%25A3-de-6%2C1-polegadas-128gb-dourado&psig=AOvVaw2w5HupD1m7lBmKZBxaL0TW&ust=1652461885760000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOjz_K662vcCFQAAAAAdAAAAABAE"
   },{
     "id": 5,
     "name": "Carregador iPhone",
     "category": "Telemoveis",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsellone.pt%2Fproduto%2Fcarregador-iphone-5-6-7-e-8%2F&psig=AOvVaw3aLAofaEhGoGhShAw4VdRS&ust=1652461905039000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCOChmbi62vcCFQAAAAAdAAAAABAE"
   },{
     "id": 6,
     "name": "Santal",
     "category": "Alimentar",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.continente.pt%2Fproduto%2Fsumo-de-laranja-e-cenoura-active-drink-santal-2230143.html&psig=AOvVaw2CnmO9M2KiwZoZtXqO8lK0&ust=1652461920568000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMiY3b-62vcCFQAAAAAdAAAAABAD"
   },{
     "id": 7,
     "name": "Talheres",
     "category": "Cozinha",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.dipratos.com.br%2Ftalheres-de-aco-inox-prata-bambu-e-silicone-melhor-opcao-para-restaurantes%2F&psig=AOvVaw3WC8zSLFFiPq7PM9KJLXIE&ust=1652461944257000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLir78q62vcCFQAAAAAdAAAAABAG"
   },{
     "id": 8,
     "name": "Fotografia",
     "category": "Fotografia",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ffotografiaprofissional.org%2Fo-que-e-fotografia-quem-inventou-a-fotografia%2F&psig=AOvVaw1WmRpInyvm6rp-jqilB2xp&ust=1652461958888000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLjI-tG62vcCFQAAAAAdAAAAABAD"
   },{
     "id": 9,
     "name": "Caneca",
     "category": "Roupa",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.saojoaobraga.pt%2Floja%2Fcasa-lar%2Fcaneca-branca%2F&psig=AOvVaw3NvPtJD2ZcDzBt6fQR6Ou8&ust=1652461972957000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPi21ti62vcCFQAAAAAdAAAAABAK"
   },{
     "id": 10,
     "name": "Cachecol SLB",
     "category": "Desporto",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.slbenfica.pt%2Fpt-pt%2Floja%2Fprodutos%2Facessorios%2Fcachecois%2Fcachecol-gigante-com-logo-sl-benfica&psig=AOvVaw1YiBj54k2ZaZ3YGMZlmSDu&ust=1652461988169000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKjl1t-62vcCFQAAAAAdAAAAABAF"
   },{
     "id": 11,
     "name": "Pulseira",
     "category": "Acessórios",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.twobrothers-store.com%2Fhomem%2Fpulseiras-homem%2Fpulseira-merced%2F&psig=AOvVaw1h4VyYgvcUxAwj8GNaaSI9&ust=1652461999799000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKCko-W62vcCFQAAAAAdAAAAABAE"
   },{
     "id": 12,
     "name": "Estojo",
     "category": "Escolar",
-    "url_image": ""
+    "url_image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.daclojaonline.com.br%2Festojo-escolar-em-silicone-lilas-dac-enjoy-e234li&psig=AOvVaw327jByLoPkmXeHRKM5hjhj&ust=1652462011120000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCPiX1Oq62vcCFQAAAAAdAAAAABAF"
   }
 ]
