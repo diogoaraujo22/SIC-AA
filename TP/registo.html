@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+    <link href="style/starter-template.css" rel="stylesheet">
+    <!--<link href="style/formatacao.css" rel="stylesheet">-->
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  
+  <title>Template</title>
+  </head>
+  <body>
+
+    <div class="container" id="gamesApp">
+    <!-- 
+    <div><a id="counter">0</a></div>
+    <button type="button" onClick="cliclar()">Click Me!</button> -->
+
+
+    <div class="container">
+    
+      <div class="row">
+        <div class="col-md-12">
+          <top-onlylogin-bar></top-onlylogin-bar> 
+        </div>
+      </div>
+
+
+      <div class="row">
+        <div class="col-md-12">
+          <registo v-bind:list-of-users="users" v-bind:user-reg="userRegisto" v-bind:email-reg="emailRegisto" v-bind:pass-reg="passRegisto" v-bind:zone-reg="zoneRegisto" 
+          v-on:newureg="userRegisto=$event" v-on:newereg="emailRegisto=$event" v-on:newpreg="passRegisto=$event" v-on:newzreg="zoneRegisto=$event"
+          ></registo> 
+        </div>
+      </div>
+
+
+
+    </div><!-- /.container -->
+  </div>
+    <!-- Bootstrap core JavaScript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+
+    <!-- development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+    <script src="scripts/productApp.js"></script>
+
+
+     <script src="js/bootstrap.js"></script>
+    <script src="scripts/script.js"></script>
+  </body>
+</html>
