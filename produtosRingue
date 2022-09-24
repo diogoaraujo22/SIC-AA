@@ -7,5 +7,17 @@
     "id": 2,
     "nome": "Bifana",
     "preco": 1.5
+  },{
+    "id": 3,
+    "nome": "Caldo Verde",
+    "preco": 1
+  },{
+    "id": 4,
+    "nome": "Sopa",
+    "preco": 0.9
+  },{
+    "id": 5,
+    "nome": "Cerveja",
+    "preco": 1.5
   }
 ]
