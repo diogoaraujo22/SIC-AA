@@ -1,0 +1,11 @@
+[
+  {
+    "id": 1,
+    "nome": "Cachorro",
+    "preco": "2.5"
+  },{
+    "id": 2,
+    "name": "Bifana",
+    "preco": "1.5"
+  }
+]
