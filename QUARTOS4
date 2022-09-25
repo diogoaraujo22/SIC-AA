@@ -3,21 +3,21 @@
     "id": 13,
     "nome": "Café",
     "preco": 0.50,
-    "imagem": ""
+    "imagem": "https://static1.conquistesuavida.com.br/articles//0/14/58/0/@/33570-investir-em-cafe-para-tomar-no-pre-trein-article_block_media_large-2.jpg"
   },{
     "id": 14,
     "nome": "Cuba",
     "preco": 2.5,
-    "imagem": ""
+    "imagem": "https://www.liquor.com/thmb/uEHWRpZ2qkuwEsjq1N6XFvPE2Ps=/720x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/whiskeyandcoke-720x720-primary-73df64c30d2e4576b4a9a7b727748d1b.jpg"
   },{
     "id": 15,
     "nome": "Cuba a Metro",
     "preco": 25,
-    "imagem": ""
+    "imagem": "https://oportunityleiloes.auctionserver.net/images/lot/4019/4019915_0.jpg"
   },{
     "id": 16,
     "nome": "Cerveja a Metro",
     "preco": 15,
-    "imagem": ""
+    "imagem": "https://oportunityleiloes.auctionserver.net/images/lot/4019/4019915_0.jpg"
   }
 ]
