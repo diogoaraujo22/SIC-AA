@@ -3,21 +3,21 @@
     "id": 1,
     "nome": "Papas",
     "preco": 4,
-    "imagem": ""
+    "imagem": "https://pt.rc-cdn.community.thermomix.com/recipeimage/wy5uey33-f1295-058643-cfcd2-38cetpgl/e961b132-045c-4324-b21d-5c7078ae8fef/main/papas-sarrabulho.jpg"
   },{
     "id": 2,
     "nome": "Feijoada",
     "preco": 4,
-    "imagem": ""
+    "imagem": "https://assets.tmecosys.com/image/upload/t_web600x528/img/recipe/ras/Assets/4108a45f-7b80-400b-b795-2bc77d20a6df/Derivates/bbc6d778-71d8-46d9-9565-1d0f5ea3e6d4.jpg"
   },{
     "id": 3,
     "nome": "Moelas",
     "preco": 2,
-    "imagem": ""
+    "imagem": "https://cdn.vidaativa.pt/uploads/2020/06/moelas-para-petiscar-850x514.jpg"
   },{
     "id": 4,
     "nome": "Rojões",
     "preco": 2,
-    "imagem": ""
+    "imagem": "https://cdn.e-konomista.pt/uploads/2021/02/rojoes--850x514.jpg"
   }
 ]
