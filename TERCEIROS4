@@ -3,21 +3,21 @@
     "id": 9,
     "nome": "Vinho a Copo tto",
     "preco": 1.5,
-    "imagem": ""
+    "imagem": "https://www.brincoloica.com/content/uploads/maingallery/crops/204279_detailed_1571741572.jpg"
   },{
     "id": 10,
     "nome": "Sumo",
     "preco": 1,
-    "imagem": ""
+    "imagem": "https://www.spar.pt/images/thumbs/0003875_ice-tea-lipton-manga-lata-33cl_550.jpeg"
   },{
     "id": 11,
     "nome": "Cerveja",
     "preco": 1.5,
-    "imagem": ""
+    "imagem": "https://thumbs.web.sapo.io/?W=775&H=0&delay_optim=1&webp=1&epic=YzcxJ5DlJNIkPVWH15canJWDy7Y8KQ2eYUQZn3ZipQwpKI3A8zE1lNeHS9wO8ep0t9tKZdcxFf380MP8rcEBlXPr/i8Jtw6hAR2J9xE2wf6aIH0="
   },{
     "id": 12,
     "nome": "Água",
     "preco": 0.50,
-    "imagem": ""
+    "imagem": "https://static.staples.pt/resources/medias/shop/products/thumbnails/shop-image-342/shop-607629--1.jpg"
   }
 ]
