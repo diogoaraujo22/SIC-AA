@@ -1,0 +1,23 @@
+[
+   {
+    "id": 1,
+    "nome": "Papas",
+    "preco": 4,
+    "imagem": ""
+  },{
+    "id": 2,
+    "nome": "Feijoada",
+    "preco": 4,
+    "imagem": ""
+  },{
+    "id": 3,
+    "nome": "Moelas",
+    "preco": 2,
+    "imagem": ""
+  },{
+    "id": 4,
+    "nome": "Rojões",
+    "preco": 2,
+    "imagem": ""
+  }
+]
