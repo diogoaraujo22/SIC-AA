@@ -1,1 +1,73 @@
-
+[
+  {
+    "id": 1,
+    "nome": "Papas",
+    "preco": 4,
+    "imagem": ""
+  },{
+    "id": 2,
+    "nome": "Feijoada",
+    "preco": 4,
+    "imagem": ""
+  },{
+    "id": 3,
+    "nome": "Moelas",
+    "preco": 2,
+    "imagem": ""
+  },{
+    "id": 4,
+    "nome": "Rojões",
+    "preco": 2,
+    "imagem": ""
+  },{
+    "id": 5,
+    "nome": "Cachorro",
+    "preco": 2.5,
+    "imagem": ""
+  },{
+    "id": 6,
+    "nome": "Bifana",
+    "preco": 2.5,
+    "imagem": ""
+  },{
+    "id": 7,
+    "nome": "Caldo Verde",
+    "preco": 1.5,
+    "imagem": ""
+  },{
+    "id": 8,
+    "nome": "Gfa Vinho Bco",
+    "preco": 6,
+    "imagem": ""
+  },{
+    "id": 9,
+    "nome": "Vinho a Copo tto",
+    "preco": 1.5,
+    "imagem": ""
+  },{
+    "id": 10,
+    "nome": "Sumo",
+    "preco": 1,
+    "imagem": ""
+  },{
+    "id": 11,
+    "nome": "Cerveja",
+    "preco": 1.5,
+    "imagem": ""
+  },{
+    "id": 12,
+    "nome": "Água",
+    "preco": 0.50,
+    "imagem": ""
+  },{
+    "id": 13,
+    "nome": "Café",
+    "preco": 0.50,
+    "imagem": ""
+  },{
+    "id": 14,
+    "nome": "Cuba",
+    "preco": 2.5,
+    "imagem": ""
+  }
+]
