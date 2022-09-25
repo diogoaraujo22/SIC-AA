@@ -1,23 +1,23 @@
 [
-   {
-    "id": 1,
-    "nome": "Papas",
-    "preco": 4,
+ {
+    "id": 5,
+    "nome": "Cachorro",
+    "preco": 2.5,
     "imagem": ""
   },{
-    "id": 2,
-    "nome": "Feijoada",
-    "preco": 4,
+    "id": 6,
+    "nome": "Bifana",
+    "preco": 2.5,
     "imagem": ""
   },{
-    "id": 3,
-    "nome": "Moelas",
-    "preco": 2,
+    "id": 7,
+    "nome": "Caldo Verde",
+    "preco": 1.5,
     "imagem": ""
   },{
-    "id": 4,
-    "nome": "Rojões",
-    "preco": 2,
+    "id": 8,
+    "nome": "Gfa Vinho Bco",
+    "preco": 6,
     "imagem": ""
   }
 ]
