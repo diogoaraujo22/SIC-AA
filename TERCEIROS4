@@ -1,0 +1,23 @@
+[
+ {
+    "id": 5,
+    "nome": "Cachorro",
+    "preco": 2.5,
+    "imagem": ""
+  },{
+    "id": 6,
+    "nome": "Bifana",
+    "preco": 2.5,
+    "imagem": ""
+  },{
+    "id": 7,
+    "nome": "Caldo Verde",
+    "preco": 1.5,
+    "imagem": ""
+  },{
+    "id": 8,
+    "nome": "Gfa Vinho Bco",
+    "preco": 6,
+    "imagem": ""
+  }
+]
