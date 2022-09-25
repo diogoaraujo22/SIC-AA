@@ -69,5 +69,15 @@
     "nome": "Cuba",
     "preco": 2.5,
     "imagem": ""
+  },{
+    "id": 15,
+    "nome": "Cuba a Metro",
+    "preco": 25,
+    "imagem": ""
+  },{
+    "id": 16,
+    "nome": "Cerveja a Metro",
+    "preco": 15,
+    "imagem": ""
   }
 ]
