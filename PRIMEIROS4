@@ -19,5 +19,10 @@
     "nome": "Rojões",
     "preco": 2,
     "imagem": "https://cdn.e-konomista.pt/uploads/2021/02/rojoes--850x514.jpg"
+  },{
+    "id": 17,
+    "nome": "E1",
+    "preco": 1,
+    "imagem": "https://cdn.e-konomista.pt/uploads/2021/02/rojoes--850x514.jpg"
   }
 ]
