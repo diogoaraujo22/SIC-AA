@@ -19,5 +19,10 @@
     "nome": "Água",
     "preco": 0.50,
     "imagem": "https://static.staples.pt/resources/medias/shop/products/thumbnails/shop-image-342/shop-607629--1.jpg"
+  },{
+    "id": 19,
+    "nome": "E3",
+    "preco": 1,
+    "imagem": "https://cdn.e-konomista.pt/uploads/2021/02/rojoes--850x514.jpg"
   }
 ]
