@@ -19,5 +19,10 @@
     "nome": "Cerveja a Metro",
     "preco": 15,
     "imagem": "https://oportunityleiloes.auctionserver.net/images/lot/4019/4019915_0.jpg"
+  },{
+    "id": 20,
+    "nome": "E4",
+    "preco": 1,
+    "imagem": "https://cdn.e-konomista.pt/uploads/2021/02/rojoes--850x514.jpg"
   }
 ]
